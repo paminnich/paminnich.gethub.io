@@ -1,0 +1,33 @@
+ 
+header {
+ color: green;
+ background-color:blue;
+ text-align: center;
+ font-size: 30px;
+ display: block;
+}
+nav{
+ background-color:grey;
+ width: 150px;
+ height:370px;
+ display: inline-block;
+ font-size: 20px;
+}
+section{
+ width:640px;
+ display:inline-block;
+ padding: 10px;
+}
+footer{
+ width:800px;
+ background-color: black;
+ color: white;
+ display: block;
+ text-align: center;
+}
+#map{
+width: 550px;
+}
+#tree{
+width: 950px;
+}
